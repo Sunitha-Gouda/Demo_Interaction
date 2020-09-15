@@ -1,3 +1,4 @@
 My name is Sunitha Gouda
 I am at line 3
 I am at line 2
+Resolved conflict and added data
